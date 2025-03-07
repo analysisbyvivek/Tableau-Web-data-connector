@@ -46,7 +46,7 @@ Here’s the fixed version with proper image placement:
 - Launch **Tableau Desktop**  
 - Navigate to **"Connect" > "To a Server" > "Web Data Connector"**  
 
-![Screenshot 2025-03-07 at 2 49 15 PM](https://github.com/user-attachments/assets/6e65f505-ceb1-4328-8381-602d793ad7cb)  
+![Screenshot 2025-03-07 at 2 49 15 PM](https://github.com/user-attachments/assets/629c6ac0-a00a-40b5-90d0-3bf63407c277)
 
 - **Enter the URL** of your hosted `index.html` file 
 
